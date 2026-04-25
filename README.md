@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-Multi--Agent-blueviolet?style=for-the-badge&logo=langchain" />
-  <img src="https://img.shields.io/badge/Groq-Llama_3.3_70B-orange?style=for-the-badge&logo=meta" />
-  <img src="https://img.shields.io/badge/Market-NSE_India-green?style=for-the-badge&logo=tradingview" />
-  <img src="https://img.shields.io/badge/Frontend-React_+_Vite-61dafb?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Vector_DB-Qdrant-red?style=for-the-badge&logo=qdrant" />
-</p>
-
 # 🏛️ WealthVisor — Agentic Pre-Meeting Intelligence System
 
 > **An AI-powered multi-agent system that generates comprehensive pre-meeting intelligence briefs for Indian wealth advisors managing HNI/UHNI portfolios.**
